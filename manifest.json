@@ -1,0 +1,14 @@
+{
+  "name": "Carte OSEYS – Réseau Clients & Consultants",
+  "short_name": "OSEYS Réseau",
+  "description": "Carte interactive du réseau OSEYS – Clients, Consultants et Siège",
+  "start_url": "./carte_interactive.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FEF6EF",
+  "theme_color": "#1a1a2e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
