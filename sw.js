@@ -1,4 +1,4 @@
-const CACHE = 'oseys-carte-v2';
+const CACHE = 'oseys-carte-v3';
 const ASSETS = [
   './carte_interactive.html',
   './manifest.json',
